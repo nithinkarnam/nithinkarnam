@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ***DestiDive(a web app that helps as a blue print for people when planning their trip)***
 
-- 🌱 I’m currently learning **MongoDB, Express, React, Node,Big Data Analytics A**
+- 🌱 I’m currently learning **MongoDB, Express, React, Node,Big Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://nithin-portfolio-one.vercel.app/](https://nithin-portfolio-one.vercel.app/)
 
