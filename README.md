@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Express, React, Node,Big Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://nithin-portfolio-one.vercel.app/](https://nithin-portfolio-one.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nithin-portfolio-one.vercel.app/](https://portfolio-nithinkarnam.vercel.app/)
 
 - 💬 Ask me about **React,C++,C,python,HTML,CSS**
 
