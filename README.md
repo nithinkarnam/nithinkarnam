@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinkarnam&label=Profile%20views&color=0e75b6&style=flat" alt="nithinkarnam" /> </p>
 
-- 🔭 I’m currently working on ***DestiDive(a web app that helps as a blue print for people when planning their trip)***
 
 - 🌱 I’m currently learning **MongoDB, Express, React, Node,Big Data Analytics**
 
